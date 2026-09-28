@@ -1,9 +1,0 @@
----
-
-## Simulation Waveform
-
-The following waveform was captured using Questa during
-functional simulation of the Sparse-Aware SNN Engine.
-
-It shows the input spike vector, output spike vector,
-membrane potentials, and control signals.
