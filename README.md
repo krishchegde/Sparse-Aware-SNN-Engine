@@ -69,8 +69,6 @@ The engine consists of the following functional blocks:
 ---
 
 ## Block Diagram
-
-text
        Input Spike Vector
                |
                v
